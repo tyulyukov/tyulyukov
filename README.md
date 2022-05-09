@@ -18,19 +18,24 @@
   </h1>
 </div>
 
-### ☁️: About me :
-
+<details>
+<summary>☁️ About me :</summary>
 - Im a 16 yo student from Ukraine, studying coding for 2 years.
+</details>
 
-### 📇: Experience (Software + Web) :
+<details>
+<summary>📇 Experience (Software + Web) :</summary>
 
 - 🛠️: Languages: C++, C#, JS
 - 🔭: Platforms: .NET, NodeJS
 - 👨‍💻: Technologies: Vue, React, Angular, ASP.NET, WPF
 - 📊: Databases: MongoDB, MySQL, Firebase
-
-### :fire: My Stats :
+</details>
+  
+<details>
+<summary>🔥 My Stats :</summary>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tyulyukov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyulyukov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
