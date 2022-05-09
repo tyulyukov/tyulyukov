@@ -18,7 +18,7 @@
   </h1>
 </div>
 
-<details>
+<!--<details>
 <summary>☁️ About me :</summary>
 - Im a 16 yo student from Ukraine, studying coding for 2 years.
 </details>
@@ -30,7 +30,7 @@
 - 🔭: Platforms: .NET, NodeJS
 - 👨‍💻: Technologies: Vue, React, Angular, ASP.NET, WPF
 - 📊: Databases: MongoDB, MySQL, Firebase
-</details>
+</details>-->
   
 <details>
 <summary>🔥 My Stats :</summary>
