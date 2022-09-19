@@ -13,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=tyulyukov&style=flat-square&color=blue" alt="GitHub views"/>
   
   <h1>
-    its me tyulyukov
-    <img id="waving-emoji" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+    Maksym Tyulyukov
+    <img id="waving-emoji" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>
   </h1>
 </div>
 
@@ -26,7 +26,7 @@
 <details>
 <summary>📇 Experience (Software + Web) :</summary>
 
-- 🛠️: Languages: C++, C#, JS
+- 🛠️: Languages: C++, C#, JS, Java, PHP
 - 🔭: Platforms: .NET, NodeJS
 - 👨‍💻: Technologies: Vue, React, Angular, ASP.NET, WPF
 - 📊: Databases: MongoDB, MySQL, Firebase
